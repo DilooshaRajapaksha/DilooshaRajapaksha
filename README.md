@@ -1,7 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,19,24&height=230&section=header&text=Hi,%20I'm%20Diloosha&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20student%20at%20SLIIT&descSize=18&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,19,24&height=230&section=header&text=Diloosha%20Rajapaksha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20at%20SLIIT&descSize=18&descAlignY=58" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=C77DFF&center=true&vCenter=true&width=620&lines=3rd+year+CS+student+from+Sri+Lanka;I+like+building+things+that+actually+work;Currently+teaching+an+AI+to+read+my+lecture+notes" alt="Typing SVG" />
+  <img src="assets/profile-dots.png" width="220" alt="Diloosha Rajapaksha" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=C77DFF&center=true&vCenter=true&width=620&lines=AI+%7C+Full-Stack+%7C+Embedded+%7C+Mobile;I+like+building+things+that+actually+work;Currently+teaching+an+AI+to+read+my+lecture+notes" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,11 +18,19 @@
 
 ### 👋 About me
 
-I'm a third-year Computer Science student at SLIIT in Sri Lanka. Most of what's here started as uni assignments, but a few turned into things I kept working on long after the deadline.
+I'm a Computer Science undergraduate with a strong passion for solving real-world problems through technology. I enjoy exploring areas like software development, AI, and algorithms, and I'm constantly learning new tools and technologies to grow my skills. I thrive in environments that challenge me to think critically, collaborate with others, and turn ideas into working solutions.
 
-**Right now I'm:**
-- building a small AI that reads my lecture slides so I can ask it questions before exams
-- finishing Pearl Gifts, a shop website for a real gift business
+I'm currently looking for opportunities to learn, collaborate, and contribute. Always open to connecting. Feel free to reach out!
+
+**Interested in:**
+- AI & Machine Learning
+- Full-stack development
+- Embedded systems
+- Backend development
+- Mobile app development
+
+**Currently working on:**
+- an AI system that reads my lecture slides so I can ask it questions before exams
 
 ---
 
@@ -26,15 +38,16 @@ I'm a third-year Computer Science student at SLIIT in Sri Lanka. Most of what's 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🧩 TaskLang++</h4>
-      My own little programming language for scheduling tasks, built with Flex and Bison for a Programming Paradigms module. The hardest part was catching tasks that depend on each other in a loop. I had a bug there that took me a while to find.
+    <td width="33%" valign="top">
+      <h4>🏨 Hotel System</h4>
+      A full-stack hotel and restaurant management system built for a real client. Getting it deployed and ready for handover taught me as much as writing the code did.
       <br><br>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flex%20%26%20Bison-555?style=flat-square" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>🎁 Pearl Gifts</h4>
       A website for a gift shop. I kept it simple on purpose: no logins or card payments, people just pick what they like and order through WhatsApp. The owner can change product photos from an admin page.
       <br><br>
@@ -42,21 +55,13 @@ I'm a third-year Computer Science student at SLIIT in Sri Lanka. Most of what's 
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💡 LumaControl</h4>
-      A group project for Control Systems. An ESP32 reads how bright the room is and adjusts an LED strip using PID control, so the light stays at the level you set.
-      <br><br>
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-      <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
-      <img src="https://img.shields.io/badge/PID-555?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎲 Yahtzee</h4>
-      The dice game, written in C back in first year. One of the first proper programs I finished, so it stays here even though I'd write it very differently today.
+    <td width="33%" valign="top">
+      <h4>🧩 TaskLang++</h4>
+      My own little programming language for scheduling tasks, built with Flex and Bison. The hardest part was catching tasks that depend on each other in a loop. I had a bug there that took me a while to find.
       <br><br>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flex%20%26%20Bison-555?style=flat-square" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     </td>
   </tr>
 </table>
