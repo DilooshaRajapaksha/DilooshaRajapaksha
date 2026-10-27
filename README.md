@@ -1,12 +1,11 @@
 <h1 align="center">Diloosha Rajapaksha</h1>
 <p align="center"><b>Computer Science Undergraduate at SLIIT</b></p>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="assets/profile-anim.gif" width="260" alt="Diloosha Rajapaksha" /></td>
-    <td align="center"><img src="assets/logo-anim.gif" width="260" alt="DR" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/profile-anim.gif" width="260" alt="Diloosha Rajapaksha" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logo-anim.gif" width="260" alt="DR" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DilooshaRajapaksha&label=Profile%20Views&color=9d4edd&style=flat-square" />
