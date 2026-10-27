@@ -1,9 +1,12 @@
 <h1 align="center">Diloosha Rajapaksha</h1>
 <p align="center"><b>Computer Science Undergraduate at SLIIT</b></p>
 
-<p align="center">
-  <img src="assets/profile-dots.png" width="220" alt="Diloosha Rajapaksha" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/profile-anim.gif" width="260" alt="Diloosha Rajapaksha" /></td>
+    <td align="center"><img src="assets/logo-anim.gif" width="260" alt="DR" /></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DilooshaRajapaksha&label=Profile%20Views&color=9d4edd&style=flat-square" />
@@ -61,6 +64,21 @@ I'm currently looking for opportunities to learn, collaborate, and contribute. A
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🎲 Yahtzee</h4>
+      The dice game, written in C back in first year. One of the first proper programs I finished, so it stays here even though I'd write it very differently today.
+      <br><br>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>✈️ Travel System</h4>
+      A travel system I'm building right now. Still a work in progress, so check back soon to see how it turns out.
+      <br><br>
+      <img src="https://img.shields.io/badge/Status-In%20progress-ff6ec7?style=flat-square" />
+    </td>
+    <td width="33%" valign="top"></td>
+  </tr>
 </table>
 
 <p align="center"><a href="https://github.com/DilooshaRajapaksha?tab=repositories">See everything else →</a></p>
@@ -69,11 +87,31 @@ I'm currently looking for opportunities to learn, collaborate, and contribute. A
 
 ### 🧰 What I use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,fastapi,mysql,arduino&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman&theme=dark" />
-</p>
+**🧑‍💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=c,java,python,js&perline=6" />
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,figma&perline=7" />
+
+**🛠️ Backend & Cloud**
+
+<img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,azure,linux&perline=8" />
+
+**🗄️ Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode&perline=7" />
+
+**🔌 Embedded**
+
+<img src="https://skillicons.dev/icons?i=arduino&perline=6" />
+
+**🤖 AI / ML**
+
+<img src="https://skillicons.dev/icons?i=python&perline=6" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 
 ---
 
