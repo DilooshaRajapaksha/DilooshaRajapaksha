@@ -98,11 +98,9 @@ I'm a third-year Computer Science student at SLIIT in Sri Lanka. Most of what's 
 
 I'm looking for an internship, and I'm always happy to team up on something interesting.
 
-<!-- Add your links here, then remove these comment markers:
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/diloosha-rajapaksha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rajapakshadiloosha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
--->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,19,24&height=120&section=footer" />
