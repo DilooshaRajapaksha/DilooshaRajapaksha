@@ -1,11 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,19,24&height=230&section=header&text=Diloosha%20Rajapaksha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20at%20SLIIT&descSize=18&descAlignY=58" />
+<h1 align="center">Diloosha Rajapaksha</h1>
+<p align="center"><b>Computer Science Undergraduate at SLIIT</b></p>
 
 <p align="center">
   <img src="assets/profile-dots.png" width="220" alt="Diloosha Rajapaksha" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=C77DFF&center=true&vCenter=true&width=620&lines=AI+%7C+Full-Stack+%7C+Embedded+%7C+Mobile;I+like+building+things+that+actually+work;Currently+teaching+an+AI+to+read+my+lecture+notes" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -108,4 +105,3 @@ I'm looking for an internship, and I'm always happy to team up on something inte
   <a href="mailto:rajapakshadiloosha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,19,24&height=120&section=footer" />
